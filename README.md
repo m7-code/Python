@@ -26,44 +26,7 @@ python/
 │── README.md                        # Project documentation
 ```
 
----
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-* Python 3.x installed on your system
-* Basic understanding of programming concepts
-
-Check Python version:
-
-```bash
-python --version
-```
-
----
-
-## ▶️ How to Run the Code
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/python-practice.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd python-practice/python
-```
-
-3. Run any Python file:
-
-```bash
-python _1helloWorld.py
-```
-
----
 
 ## 📚 Topics Covered
 
@@ -104,8 +67,3 @@ Contributions are welcome!
 ## 📜 License
 
 This project is for **learning and practice purposes**.
-
----
-
-### ⭐ If you find this repository helpful, please give it a star on GitHub!
-
